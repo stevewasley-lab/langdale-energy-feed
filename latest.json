@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-10T21:30:38.969818+00:00",
-  "solar_today_kwh": null,
+  "fetched_at": "2026-09-10T21:34:31.047061+00:00",
+  "solar_today_kwh": 17.36,
   "generation_now_w": 0,
-  "grid_now_w": 935,
+  "grid_now_w": 932,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -77,14 +77,14 @@
       },
       {
         "name": "Hall",
-        "temperature_c": 19.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       }
     ]
   },
   "errors": {
-    "solaredge": "HTTP Error 400: Bad Request",
+    "solaredge": null,
     "myenergi": null,
     "evohome": null
   }
