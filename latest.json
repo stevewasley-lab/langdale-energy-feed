@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-10T23:11:59.143491+00:00",
+  "fetched_at": "2026-09-10T23:21:48.444152+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 690,
+  "grid_now_w": 740,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 2,
+      "on": 0,
       "total": 4
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 52
   },
   "errors": {
     "solaredge": null,
