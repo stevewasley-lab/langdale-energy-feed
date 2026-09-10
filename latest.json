@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-10T22:36:24.455887+00:00",
+  "fetched_at": "2026-09-10T22:51:32.119896+00:00",
   "solar_today_kwh": 17.36,
   "generation_now_w": 0,
-  "grid_now_w": 785,
+  "grid_now_w": 1053,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -23,7 +23,7 @@
       },
       {
         "name": "Family room",
-        "temperature_c": 21.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 20.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 0,
+      "on": 2,
       "total": 4
     },
     {
@@ -151,17 +151,17 @@
     },
     {
       "name": "Games room",
-      "on": 0,
+      "on": 19,
       "total": 19
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
