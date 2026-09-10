@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-10T22:51:32.119896+00:00",
-  "solar_today_kwh": 17.36,
+  "fetched_at": "2026-09-10T23:11:59.143491+00:00",
+  "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1053,
+  "grid_now_w": 690,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -91,12 +91,12 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
       "name": "Landing",
-      "on": 2,
+      "on": 0,
       "total": 5
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "name": "Hall",
-      "on": 3,
+      "on": 0,
       "total": 3
     },
     {
@@ -151,17 +151,17 @@
     },
     {
       "name": "Games room",
-      "on": 19,
+      "on": 0,
       "total": 19
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
       "name": "Kitchen",
-      "on": 13,
+      "on": 0,
       "total": 13
     },
     {
@@ -170,10 +170,14 @@
       "total": 5
     }
   ],
+  "network": {
+    "devices_online": 51
+  },
   "errors": {
     "solaredge": null,
     "myenergi": null,
     "evohome": null,
-    "hue": null
+    "hue": null,
+    "network": null
   }
 }
