@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-10T21:05:39.486082+00:00",
-  "solar_today_kwh": 17.36,
+  "fetched_at": "2026-09-10T21:20:41.889174+00:00",
+  "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1008,
+  "grid_now_w": 889,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
   "errors": {
-    "solaredge": null,
+    "solaredge": "HTTP Error 400: Bad Request",
     "myenergi": null
   }
 }
