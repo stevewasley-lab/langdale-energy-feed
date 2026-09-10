@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-10T21:50:56.583697+00:00",
+  "fetched_at": "2026-09-10T22:21:18.443658+00:00",
   "solar_today_kwh": 17.36,
   "generation_now_w": 0,
-  "grid_now_w": 875,
+  "grid_now_w": 717,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -83,9 +83,97 @@
       }
     ]
   },
+  "lighting": [
+    {
+      "name": "Family room",
+      "on": 0,
+      "total": 2
+    },
+    {
+      "name": "Porch light",
+      "on": 0,
+      "total": 1
+    },
+    {
+      "name": "Landing",
+      "on": 2,
+      "total": 5
+    },
+    {
+      "name": "Bedroom",
+      "on": 0,
+      "total": 4
+    },
+    {
+      "name": "Soren\u2019s room",
+      "on": 0,
+      "total": 1
+    },
+    {
+      "name": "Kaena's bedroom",
+      "on": 1,
+      "total": 1
+    },
+    {
+      "name": "Dressing room",
+      "on": 0,
+      "total": 1
+    },
+    {
+      "name": "Study",
+      "on": 0,
+      "total": 2
+    },
+    {
+      "name": "Soren\u2019s Bathroom",
+      "on": 0,
+      "total": 1
+    },
+    {
+      "name": "Hall",
+      "on": 3,
+      "total": 3
+    },
+    {
+      "name": "Living room",
+      "on": 0,
+      "total": 9
+    },
+    {
+      "name": "Dining Room",
+      "on": 0,
+      "total": 4
+    },
+    {
+      "name": "Gym",
+      "on": 0,
+      "total": 8
+    },
+    {
+      "name": "Games room",
+      "on": 0,
+      "total": 19
+    },
+    {
+      "name": "Utility",
+      "on": 0,
+      "total": 1
+    },
+    {
+      "name": "Kitchen",
+      "on": 0,
+      "total": 13
+    },
+    {
+      "name": "Kaena\u2019s Bathroom",
+      "on": 0,
+      "total": 5
+    }
+  ],
   "errors": {
     "solaredge": null,
     "myenergi": null,
-    "evohome": null
+    "evohome": null,
+    "hue": null
   }
 }
