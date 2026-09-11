@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T18:22:37.178659+00:00",
+  "fetched_at": "2026-09-11T18:37:49.377247+00:00",
   "solar_today_kwh": 11.69,
   "generation_now_w": 0,
-  "grid_now_w": 1150,
+  "grid_now_w": 1026,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 55
+    "devices_online": 56
   },
   "errors": {
     "solaredge": null,
