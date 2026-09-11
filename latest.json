@@ -1,87 +1,14 @@
 {
-  "fetched_at": "2026-09-11T07:01:47.483860+00:00",
-  "solar_today_kwh": 0.56,
+  "fetched_at": "2026-09-11T07:07:24.674578+00:00",
+  "solar_today_kwh": 0.64,
   "generation_now_w": 0,
-  "grid_now_w": -41,
+  "grid_now_w": 522,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
   "heating": {
-    "system_mode": "HeatingOff",
-    "zones": [
-      {
-        "name": "Living room",
-        "temperature_c": 18.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Dining room",
-        "temperature_c": 18.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Family room",
-        "temperature_c": 20.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Master bed",
-        "temperature_c": 19.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Kaena bed",
-        "temperature_c": 17.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Soren bed",
-        "temperature_c": 17.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Study",
-        "temperature_c": 18.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Spare room",
-        "temperature_c": 20.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Games room",
-        "temperature_c": 18.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Porch-Dressing",
-        "temperature_c": 18.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Library",
-        "temperature_c": 18.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Hall",
-        "temperature_c": 18.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      }
-    ]
+    "system_mode": null,
+    "zones": []
   },
   "lighting": [
     {
@@ -171,12 +98,12 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
     "myenergi": null,
-    "evohome": null,
+    "evohome": "Unable to obtain an Access Token, hint: {\"error\":\"attempt_limit_exceeded\"}",
     "hue": null,
     "network": null
   }
