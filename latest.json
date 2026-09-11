@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T01:38:38.911491+00:00",
+  "fetched_at": "2026-09-11T01:53:59.311844+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 955,
+  "grid_now_w": 918,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
