@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T10:15:27.711378+00:00",
-  "solar_today_kwh": 3.54,
+  "fetched_at": "2026-09-11T10:30:39.632755+00:00",
+  "solar_today_kwh": 3.68,
   "generation_now_w": 0,
-  "grid_now_w": 1196,
+  "grid_now_w": 1773,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
