@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T03:40:10.157098+00:00",
+  "fetched_at": "2026-09-11T03:55:19.908300+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 672,
+  "grid_now_w": 585,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B2",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 18.5,
+        "temperature_c": 18.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -166,7 +166,7 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 0,
+      "on": 5,
       "total": 5
     }
   ],
