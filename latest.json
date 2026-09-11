@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T21:40:40.737546+00:00",
+  "fetched_at": "2026-09-11T21:55:53.027573+00:00",
   "solar_today_kwh": 11.69,
   "generation_now_w": 0,
-  "grid_now_w": 946,
+  "grid_now_w": 907,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 19.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 0,
+      "on": 2,
       "total": 4
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 53
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
