@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T20:39:42.071662+00:00",
+  "fetched_at": "2026-09-11T20:55:04.484565+00:00",
   "solar_today_kwh": 11.69,
   "generation_now_w": 0,
-  "grid_now_w": 1133,
+  "grid_now_w": 1152,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 22.0,
+        "temperature_c": 21.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -126,7 +126,7 @@
     },
     {
       "name": "Soren\u2019s Bathroom",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
