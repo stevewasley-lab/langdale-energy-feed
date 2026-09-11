@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T08:29:11.800175+00:00",
-  "solar_today_kwh": 1.31,
+  "fetched_at": "2026-09-11T08:44:22.643677+00:00",
+  "solar_today_kwh": 1.84,
   "generation_now_w": 0,
-  "grid_now_w": 1318,
+  "grid_now_w": 839,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -23,7 +23,7 @@
       },
       {
         "name": "Family room",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -53,13 +53,13 @@
       },
       {
         "name": "Spare room",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Games room",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 8,
+      "on": 0,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 52
   },
   "errors": {
     "solaredge": null,
