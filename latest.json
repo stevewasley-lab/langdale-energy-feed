@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T07:58:41.204163+00:00",
-  "solar_today_kwh": 1.02,
+  "fetched_at": "2026-09-11T08:14:00.300225+00:00",
+  "solar_today_kwh": 1.15,
   "generation_now_w": 0,
-  "grid_now_w": 1439,
+  "grid_now_w": 1128,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Master bed",
-        "temperature_c": 19.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 49
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
