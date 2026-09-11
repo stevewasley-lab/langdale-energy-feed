@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T18:37:49.377247+00:00",
+  "fetched_at": "2026-09-11T18:53:01.943019+00:00",
   "solar_today_kwh": 11.69,
   "generation_now_w": 0,
-  "grid_now_w": 1026,
+  "grid_now_w": 3728,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 56
+    "devices_online": 54
   },
   "errors": {
     "solaredge": null,
