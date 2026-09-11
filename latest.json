@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T22:57:09.232635+00:00",
-  "solar_today_kwh": 11.69,
+  "fetched_at": "2026-09-11T23:12:32.618877+00:00",
+  "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1055,
+  "grid_now_w": 1096,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B2",
@@ -96,7 +96,7 @@
     },
     {
       "name": "Landing",
-      "on": 2,
+      "on": 0,
       "total": 5
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "name": "Hall",
-      "on": 3,
+      "on": 0,
       "total": 3
     },
     {
