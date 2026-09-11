@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T04:40:49.941607+00:00",
+  "fetched_at": "2026-09-11T04:56:02.195544+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 2017,
+  "grid_now_w": 687,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B2",
@@ -23,7 +23,7 @@
       },
       {
         "name": "Family room",
-        "temperature_c": 20.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 19.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 49
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
