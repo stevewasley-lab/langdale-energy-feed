@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T20:55:04.484565+00:00",
+  "fetched_at": "2026-09-11T21:10:17.613070+00:00",
   "solar_today_kwh": 11.69,
   "generation_now_w": 0,
-  "grid_now_w": 1152,
+  "grid_now_w": 1151,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -65,7 +65,7 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 20.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 5,
+      "on": 0,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 52
+    "devices_online": 53
   },
   "errors": {
     "solaredge": null,
