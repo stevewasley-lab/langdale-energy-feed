@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T15:34:32.894976+00:00",
-  "solar_today_kwh": 10.83,
+  "fetched_at": "2026-09-11T15:49:43.704102+00:00",
+  "solar_today_kwh": 10.93,
   "generation_now_w": 0,
-  "grid_now_w": 1522,
+  "grid_now_w": 1458,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -126,7 +126,7 @@
     },
     {
       "name": "Soren\u2019s Bathroom",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 0,
+      "on": 5,
       "total": 5
     }
   ],
