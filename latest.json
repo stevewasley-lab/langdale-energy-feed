@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-09-11T01:08:13.810177+00:00",
+  "fetched_at": "2026-09-11T01:23:27.033998+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 954,
+  "grid_now_w": 967,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
-  "ev_plug_status": "B1",
+  "ev_plug_status": "B2",
   "heating": {
     "system_mode": "HeatingOff",
     "zones": [
       {
         "name": "Living room",
-        "temperature_c": 19.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 53
+    "devices_online": 52
   },
   "errors": {
     "solaredge": null,
