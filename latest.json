@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T19:38:41.699965+00:00",
+  "fetched_at": "2026-09-11T19:54:03.073772+00:00",
   "solar_today_kwh": 11.69,
   "generation_now_w": 0,
-  "grid_now_w": 1091,
+  "grid_now_w": 1035,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -86,7 +86,7 @@
   "lighting": [
     {
       "name": "Family room",
-      "on": 0,
+      "on": 2,
       "total": 2
     },
     {
