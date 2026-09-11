@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T05:56:53.239509+00:00",
-  "solar_today_kwh": 0.0,
+  "fetched_at": "2026-09-11T06:12:07.962346+00:00",
+  "solar_today_kwh": 0.01,
   "generation_now_w": 0,
-  "grid_now_w": 749,
+  "grid_now_w": 647,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Soren\u2019s room",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 0,
+      "on": 5,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
