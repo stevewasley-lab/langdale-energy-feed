@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-11T11:31:22.247818+00:00",
-  "solar_today_kwh": 4.81,
+  "fetched_at": "2026-09-11T11:46:32.498151+00:00",
+  "solar_today_kwh": 5.27,
   "generation_now_w": 0,
-  "grid_now_w": 38,
+  "grid_now_w": 1108,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -59,7 +59,7 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 19.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
