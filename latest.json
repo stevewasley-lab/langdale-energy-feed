@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T12:41:02.630265+00:00",
-  "solar_today_kwh": 8.25,
+  "fetched_at": "2026-09-12T12:56:13.165281+00:00",
+  "solar_today_kwh": 9.31,
   "generation_now_w": 0,
-  "grid_now_w": -2964,
+  "grid_now_w": 381,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -41,13 +41,13 @@
       },
       {
         "name": "Soren bed",
-        "temperature_c": 17.0,
+        "temperature_c": 17.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Study",
-        "temperature_c": 19.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -59,19 +59,19 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 24.0,
+        "temperature_c": 26.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 19.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Library",
-        "temperature_c": 19.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
