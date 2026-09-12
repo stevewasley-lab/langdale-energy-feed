@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T15:43:30.446220+00:00",
-  "solar_today_kwh": 11.35,
+  "fetched_at": "2026-09-12T15:58:42.810833+00:00",
+  "solar_today_kwh": 11.37,
   "generation_now_w": 0,
-  "grid_now_w": 2137,
+  "grid_now_w": 1679,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 0,
+      "on": 5,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 52
   },
   "errors": {
     "solaredge": null,
