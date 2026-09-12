@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T21:33:41.243359+00:00",
+  "fetched_at": "2026-09-12T21:48:52.129142+00:00",
   "solar_today_kwh": 11.59,
   "generation_now_w": 0,
-  "grid_now_w": 10371,
+  "grid_now_w": 1162,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -151,7 +151,7 @@
     },
     {
       "name": "Games room",
-      "on": 19,
+      "on": 0,
       "total": 19
     },
     {
