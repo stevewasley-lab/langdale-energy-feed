@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T10:39:30.672752+00:00",
-  "solar_today_kwh": 4.91,
+  "fetched_at": "2026-09-12T10:54:40.659908+00:00",
+  "solar_today_kwh": 5.11,
   "generation_now_w": 0,
-  "grid_now_w": 1291,
+  "grid_now_w": 1264,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -65,13 +65,13 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Library",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -126,7 +126,7 @@
     },
     {
       "name": "Soren\u2019s Bathroom",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 0,
+      "on": 8,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 5,
+      "on": 0,
       "total": 5
     }
   ],
