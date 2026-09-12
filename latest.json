@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T09:23:39.030433+00:00",
-  "solar_today_kwh": 2.17,
+  "fetched_at": "2026-09-12T09:38:49.143252+00:00",
+  "solar_today_kwh": 3.13,
   "generation_now_w": 0,
-  "grid_now_w": 247,
+  "grid_now_w": 1212,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -77,7 +77,7 @@
       },
       {
         "name": "Hall",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       }
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
