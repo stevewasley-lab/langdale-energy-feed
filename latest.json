@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T07:22:06.035879+00:00",
-  "solar_today_kwh": 0.24,
+  "fetched_at": "2026-09-12T07:37:17.491928+00:00",
+  "solar_today_kwh": 0.3,
   "generation_now_w": 0,
-  "grid_now_w": 793,
+  "grid_now_w": 1229,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -77,7 +77,7 @@
       },
       {
         "name": "Hall",
-        "temperature_c": 18.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       }
