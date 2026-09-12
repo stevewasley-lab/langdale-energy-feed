@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T21:03:09.222379+00:00",
+  "fetched_at": "2026-09-12T21:18:30.177051+00:00",
   "solar_today_kwh": 11.59,
   "generation_now_w": 0,
-  "grid_now_w": 1327,
+  "grid_now_w": 10325,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -77,7 +77,7 @@
       },
       {
         "name": "Hall",
-        "temperature_c": 19.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       }
@@ -151,12 +151,12 @@
     },
     {
       "name": "Games room",
-      "on": 0,
+      "on": 19,
       "total": 19
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
