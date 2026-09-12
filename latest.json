@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-12T23:35:26.983259+00:00",
+  "fetched_at": "2026-09-12T23:50:39.595574+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 10311,
-  "ev_diversion_w": 6570,
+  "grid_now_w": 13943,
+  "ev_diversion_w": 11452,
   "ev_mode": "Eco+",
   "ev_plug_status": "C2",
   "heating": {
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "name": "Games room",
-      "on": 0,
+      "on": 19,
       "total": 19
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
