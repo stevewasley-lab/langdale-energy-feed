@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T10:54:40.659908+00:00",
-  "solar_today_kwh": 5.11,
+  "fetched_at": "2026-09-12T11:09:50.621096+00:00",
+  "solar_today_kwh": 5.27,
   "generation_now_w": 0,
-  "grid_now_w": 1264,
+  "grid_now_w": 1147,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 8,
+      "on": 0,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
