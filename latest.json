@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T16:13:52.769424+00:00",
-  "solar_today_kwh": 11.49,
+  "fetched_at": "2026-09-12T16:29:04.286094+00:00",
+  "solar_today_kwh": 11.53,
   "generation_now_w": 0,
-  "grid_now_w": 709,
+  "grid_now_w": 905,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Soren bed",
-        "temperature_c": 17.5,
+        "temperature_c": 18.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
