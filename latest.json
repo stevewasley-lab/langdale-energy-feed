@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T13:41:59.939988+00:00",
-  "solar_today_kwh": 10.48,
+  "fetched_at": "2026-09-12T13:57:10.293922+00:00",
+  "solar_today_kwh": 10.71,
   "generation_now_w": 0,
-  "grid_now_w": 1028,
+  "grid_now_w": 4649,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Master bed",
-        "temperature_c": 19.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -59,7 +59,7 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 21.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -126,7 +126,7 @@
     },
     {
       "name": "Soren\u2019s Bathroom",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 8,
+      "on": 0,
       "total": 8
     },
     {
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 0,
+      "on": 5,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 53
+    "devices_online": 52
   },
   "errors": {
     "solaredge": null,
