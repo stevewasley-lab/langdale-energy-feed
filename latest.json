@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T20:47:57.696087+00:00",
+  "fetched_at": "2026-09-12T21:03:09.222379+00:00",
   "solar_today_kwh": 11.59,
   "generation_now_w": 0,
-  "grid_now_w": 9087,
+  "grid_now_w": 1327,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -17,7 +17,7 @@
       },
       {
         "name": "Dining room",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -53,7 +53,7 @@
       },
       {
         "name": "Spare room",
-        "temperature_c": 20.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -65,7 +65,7 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 20.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -156,12 +156,12 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
