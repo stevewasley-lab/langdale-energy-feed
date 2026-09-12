@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-12T22:19:26.422455+00:00",
+  "fetched_at": "2026-09-12T22:34:38.379709+00:00",
   "solar_today_kwh": 11.59,
   "generation_now_w": 0,
-  "grid_now_w": 12623,
-  "ev_diversion_w": 11549,
+  "grid_now_w": 1044,
+  "ev_diversion_w": 0,
   "ev_mode": "Eco+",
-  "ev_plug_status": "C2",
+  "ev_plug_status": "A",
   "heating": {
     "system_mode": "HeatingOff",
     "zones": [
@@ -86,7 +86,7 @@
   "lighting": [
     {
       "name": "Family room",
-      "on": 2,
+      "on": 0,
       "total": 2
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 13,
+      "on": 0,
       "total": 13
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 49
   },
   "errors": {
     "solaredge": null,
