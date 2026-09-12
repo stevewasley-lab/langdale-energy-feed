@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-12T00:13:53.663056+00:00",
+  "fetched_at": "2026-09-12T00:29:06.407366+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 797,
+  "grid_now_w": 720,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B2",
@@ -17,7 +17,7 @@
       },
       {
         "name": "Dining room",
-        "temperature_c": 18.5,
+        "temperature_c": 18.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -59,7 +59,7 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 19.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
