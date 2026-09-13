@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-13T03:08:38.155959+00:00",
+  "fetched_at": "2026-09-13T03:23:52.400629+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 12459,
-  "ev_diversion_w": 11527,
+  "grid_now_w": 12506,
+  "ev_diversion_w": 11498,
   "ev_mode": "Eco+",
   "ev_plug_status": "C2",
   "heating": {
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 20.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
