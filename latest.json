@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-13T00:05:51.195466+00:00",
+  "fetched_at": "2026-09-13T00:21:03.610290+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 12212,
-  "ev_diversion_w": 11412,
+  "grid_now_w": 12460,
+  "ev_diversion_w": 11392,
   "ev_mode": "Eco+",
   "ev_plug_status": "C2",
   "heating": {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Soren\u2019s room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 13,
+      "on": 0,
       "total": 13
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
