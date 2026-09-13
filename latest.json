@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T07:57:56.228403+00:00",
-  "solar_today_kwh": 0.27,
+  "fetched_at": "2026-09-13T08:13:07.756000+00:00",
+  "solar_today_kwh": 0.35,
   "generation_now_w": 0,
-  "grid_now_w": 1518,
+  "grid_now_w": 1339,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -151,7 +151,7 @@
     },
     {
       "name": "Games room",
-      "on": 19,
+      "on": 0,
       "total": 19
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
