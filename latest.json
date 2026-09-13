@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T18:37:03.472818+00:00",
+  "fetched_at": "2026-09-13T18:52:19.865052+00:00",
   "solar_today_kwh": 11.13,
   "generation_now_w": 0,
-  "grid_now_w": 1470,
+  "grid_now_w": 1284,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Soren\u2019s room",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "name": "Dining Room",
-      "on": 2,
+      "on": 0,
       "total": 4
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
