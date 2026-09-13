@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T20:54:37.317759+00:00",
+  "fetched_at": "2026-09-13T21:09:53.071770+00:00",
   "solar_today_kwh": 11.13,
   "generation_now_w": 0,
-  "grid_now_w": 4875,
+  "grid_now_w": 975,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 0,
+      "on": 2,
       "total": 4
     },
     {
@@ -141,22 +141,22 @@
     },
     {
       "name": "Dining Room",
-      "on": 2,
+      "on": 0,
       "total": 4
     },
     {
       "name": "Gym",
-      "on": 4,
+      "on": 0,
       "total": 8
     },
     {
       "name": "Games room",
-      "on": 19,
+      "on": 0,
       "total": 19
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
