@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T10:45:15.857585+00:00",
-  "solar_today_kwh": 3.82,
+  "fetched_at": "2026-09-13T11:00:29.004476+00:00",
+  "solar_today_kwh": 4.36,
   "generation_now_w": 0,
-  "grid_now_w": 600,
+  "grid_now_w": 838,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -35,7 +35,7 @@
       },
       {
         "name": "Kaena bed",
-        "temperature_c": 18.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 5,
+      "on": 0,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 47
+    "devices_online": 49
   },
   "errors": {
     "solaredge": null,
