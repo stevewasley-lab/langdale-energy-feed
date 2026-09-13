@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T20:24:06.032574+00:00",
+  "fetched_at": "2026-09-13T20:39:22.318922+00:00",
   "solar_today_kwh": 11.13,
   "generation_now_w": 0,
-  "grid_now_w": 778,
+  "grid_now_w": 786,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -23,7 +23,7 @@
       },
       {
         "name": "Family room",
-        "temperature_c": 21.0,
+        "temperature_c": 21.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
