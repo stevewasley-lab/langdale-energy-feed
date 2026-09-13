@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T16:20:01.510633+00:00",
-  "solar_today_kwh": 10.83,
+  "fetched_at": "2026-09-13T16:35:15.183412+00:00",
+  "solar_today_kwh": 10.91,
   "generation_now_w": 0,
-  "grid_now_w": 8636,
+  "grid_now_w": 9661,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 0,
+      "on": 8,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
