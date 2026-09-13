@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T09:59:41.585018+00:00",
-  "solar_today_kwh": 2.08,
+  "fetched_at": "2026-09-13T10:14:51.513263+00:00",
+  "solar_today_kwh": 2.6,
   "generation_now_w": 0,
-  "grid_now_w": 430,
+  "grid_now_w": 290,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
