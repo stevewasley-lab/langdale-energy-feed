@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-13T00:51:25.825038+00:00",
+  "fetched_at": "2026-09-13T01:06:40.800649+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 12336,
-  "ev_diversion_w": 11521,
+  "grid_now_w": 12234,
+  "ev_diversion_w": 11515,
   "ev_mode": "Eco+",
   "ev_plug_status": "C2",
   "heating": {
@@ -53,7 +53,7 @@
       },
       {
         "name": "Spare room",
-        "temperature_c": 21.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 5,
+      "on": 0,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
