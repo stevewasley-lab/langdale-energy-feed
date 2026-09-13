@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T18:52:19.865052+00:00",
+  "fetched_at": "2026-09-13T19:07:36.404052+00:00",
   "solar_today_kwh": 11.13,
   "generation_now_w": 0,
-  "grid_now_w": 1284,
+  "grid_now_w": 1312,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 0,
+      "on": 2,
       "total": 4
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 0,
+      "on": 8,
       "total": 8
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
