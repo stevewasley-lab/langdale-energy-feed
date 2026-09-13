@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T06:41:47.125069+00:00",
-  "solar_today_kwh": 0.01,
+  "fetched_at": "2026-09-13T06:57:09.723825+00:00",
+  "solar_today_kwh": 0.03,
   "generation_now_w": 0,
-  "grid_now_w": 813,
+  "grid_now_w": 4842,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
