@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T18:06:33.355842+00:00",
+  "fetched_at": "2026-09-13T18:21:46.658151+00:00",
   "solar_today_kwh": 11.13,
   "generation_now_w": 0,
-  "grid_now_w": 1380,
+  "grid_now_w": 1379,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -65,7 +65,7 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 21.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
