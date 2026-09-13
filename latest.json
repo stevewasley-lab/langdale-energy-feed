@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T11:46:12.284273+00:00",
-  "solar_today_kwh": 5.29,
+  "fetched_at": "2026-09-13T12:01:32.856941+00:00",
+  "solar_today_kwh": 5.57,
   "generation_now_w": 0,
-  "grid_now_w": 1229,
+  "grid_now_w": 636,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -59,7 +59,7 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -166,7 +166,7 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 5,
+      "on": 0,
       "total": 5
     }
   ],
