@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-13T23:43:02.363307+00:00",
+  "fetched_at": "2026-09-13T23:58:19.602008+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 7842,
-  "ev_diversion_w": 6994,
+  "grid_now_w": 7798,
+  "ev_diversion_w": 6995,
   "ev_mode": "Eco+",
   "ev_plug_status": "C2",
   "heating": {
@@ -29,7 +29,7 @@
       },
       {
         "name": "Master bed",
-        "temperature_c": 20.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 20.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
