@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T07:42:45.148287+00:00",
-  "solar_today_kwh": 0.21,
+  "fetched_at": "2026-09-13T07:57:56.228403+00:00",
+  "solar_today_kwh": 0.27,
   "generation_now_w": 0,
-  "grid_now_w": 1771,
+  "grid_now_w": 1518,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 19.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 51
   },
   "errors": {
     "solaredge": null,
