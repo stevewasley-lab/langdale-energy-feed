@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-13T06:57:09.723825+00:00",
-  "solar_today_kwh": 0.03,
+  "fetched_at": "2026-09-13T07:12:19.748810+00:00",
+  "solar_today_kwh": 0.07,
   "generation_now_w": 0,
-  "grid_now_w": 4842,
+  "grid_now_w": 671,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Master bed",
-        "temperature_c": 20.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "name": "Games room",
-      "on": 0,
+      "on": 19,
       "total": 19
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
