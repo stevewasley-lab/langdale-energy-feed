@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T10:56:41.058893+00:00",
-  "solar_today_kwh": 2.92,
+  "fetched_at": "2026-09-14T11:11:57.784664+00:00",
+  "solar_today_kwh": 3.62,
   "generation_now_w": 0,
-  "grid_now_w": 1029,
+  "grid_now_w": 301,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Master bed",
-        "temperature_c": 20.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -59,7 +59,7 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 0,
+      "on": 8,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 49
+    "devices_online": 50
   },
   "errors": {
     "solaredge": null,
