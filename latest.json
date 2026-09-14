@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T11:11:57.784664+00:00",
-  "solar_today_kwh": 3.62,
+  "fetched_at": "2026-09-14T11:27:15.052272+00:00",
+  "solar_today_kwh": 4.07,
   "generation_now_w": 0,
-  "grid_now_w": 301,
+  "grid_now_w": 2477,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -11,7 +11,7 @@
     "zones": [
       {
         "name": "Living room",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -53,7 +53,7 @@
       },
       {
         "name": "Spare room",
-        "temperature_c": 21.5,
+        "temperature_c": 22.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 8,
+      "on": 0,
       "total": 8
     },
     {
@@ -166,12 +166,12 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 0,
+      "on": 5,
       "total": 5
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 48
   },
   "errors": {
     "solaredge": null,
