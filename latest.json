@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T13:29:31.725290+00:00",
-  "solar_today_kwh": 7.76,
+  "fetched_at": "2026-09-14T13:44:47.789549+00:00",
+  "solar_today_kwh": 8.49,
   "generation_now_w": 0,
-  "grid_now_w": -461,
+  "grid_now_w": 1191,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 20.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 21.5,
+        "temperature_c": 22.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
