@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T03:17:54.020665+00:00",
+  "fetched_at": "2026-09-14T03:33:10.753128+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 980,
+  "grid_now_w": 1113,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B2",
@@ -11,7 +11,7 @@
     "zones": [
       {
         "name": "Living room",
-        "temperature_c": 20.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
