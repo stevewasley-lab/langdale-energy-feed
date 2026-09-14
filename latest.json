@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T12:13:07.601645+00:00",
-  "solar_today_kwh": 5.63,
+  "fetched_at": "2026-09-14T12:28:23.897178+00:00",
+  "solar_today_kwh": 6.18,
   "generation_now_w": 0,
-  "grid_now_w": 285,
+  "grid_now_w": 1543,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -35,7 +35,7 @@
       },
       {
         "name": "Kaena bed",
-        "temperature_c": 19.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -59,7 +59,7 @@
       },
       {
         "name": "Games room",
-        "temperature_c": 20.5,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
