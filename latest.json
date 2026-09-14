@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-14T07:37:47.519684+00:00",
-  "solar_today_kwh": 0.25,
+  "fetched_at": "2026-09-14T07:53:05.206279+00:00",
+  "solar_today_kwh": 0.36,
   "generation_now_w": 0,
-  "grid_now_w": 3390,
+  "grid_now_w": 1812,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
-  "ev_plug_status": "B1",
+  "ev_plug_status": "A",
   "heating": {
     "system_mode": "HeatingOff",
     "zones": [
@@ -166,7 +166,7 @@
     },
     {
       "name": "Kaena\u2019s Bathroom",
-      "on": 5,
+      "on": 0,
       "total": 5
     }
   ],
