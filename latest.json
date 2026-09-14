@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T10:26:00.200872+00:00",
-  "solar_today_kwh": 2.31,
+  "fetched_at": "2026-09-14T10:41:25.336869+00:00",
+  "solar_today_kwh": 2.66,
   "generation_now_w": 0,
-  "grid_now_w": 1058,
+  "grid_now_w": 516,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
