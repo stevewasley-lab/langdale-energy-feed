@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T03:33:10.753128+00:00",
+  "fetched_at": "2026-09-14T03:48:28.098062+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1113,
+  "grid_now_w": 843,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B2",
@@ -65,13 +65,13 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 20.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Library",
-        "temperature_c": 21.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
