@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-14T02:31:50.785088+00:00",
+  "fetched_at": "2026-09-14T02:47:20.071715+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 7848,
-  "ev_diversion_w": 6999,
+  "grid_now_w": 928,
+  "ev_diversion_w": 0,
   "ev_mode": "Eco+",
-  "ev_plug_status": "C2",
+  "ev_plug_status": "B2",
   "heating": {
     "system_mode": "HeatingOff",
     "zones": [
