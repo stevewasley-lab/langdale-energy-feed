@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-14T09:24:46.969483+00:00",
-  "solar_today_kwh": 1.37,
+  "fetched_at": "2026-09-14T09:40:11.339849+00:00",
+  "solar_today_kwh": 1.58,
   "generation_now_w": 0,
-  "grid_now_w": 1082,
+  "grid_now_w": 1209,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 20.0,
+        "temperature_c": 20.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
