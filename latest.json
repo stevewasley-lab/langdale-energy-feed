@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T18:56:09.079756+00:00",
+  "fetched_at": "2026-10-07T19:11:33.572975+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 3818,
+  "grid_now_w": 988,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -65,7 +65,7 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 18.0,
+        "temperature_c": 17.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 54
+    "devices_online": 53
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
