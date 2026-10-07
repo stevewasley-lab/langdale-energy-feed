@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T08:00:19.992499+00:00",
+  "fetched_at": "2026-10-07T08:15:57.968642+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1832,
+  "grid_now_w": 1586,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -11,7 +11,7 @@
     "zones": [
       {
         "name": "Living room",
-        "temperature_c": 18.0,
+        "temperature_c": 17.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 18.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -86,7 +86,7 @@
   "lighting": [
     {
       "name": "Family room",
-      "on": 2,
+      "on": 0,
       "total": 2
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "name": "Landing",
-      "on": 5,
+      "on": 0,
       "total": 5
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "name": "Hall",
-      "on": 3,
+      "on": 0,
       "total": 3
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 14,
+      "on": 0,
       "total": 14
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 52
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
