@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T17:54:48.063664+00:00",
+  "fetched_at": "2026-10-07T18:10:05.175972+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1086,
+  "grid_now_w": 3560,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 0,
+      "on": 8,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
