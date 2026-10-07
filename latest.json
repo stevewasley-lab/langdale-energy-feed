@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T14:21:12.007693+00:00",
+  "fetched_at": "2026-10-07T14:36:23.145397+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1138,
+  "grid_now_w": 299,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 20.0,
+        "temperature_c": 21.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 50
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
