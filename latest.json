@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T07:20:50.863486+00:00",
+  "fetched_at": "2026-10-07T07:44:52.685175+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 898,
+  "grid_now_w": 1806,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 0,
+      "on": 8,
       "total": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 52
+    "devices_online": 50
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
