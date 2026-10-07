@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T19:42:20.902913+00:00",
+  "fetched_at": "2026-10-07T22:13:33.736789+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 923,
+  "grid_now_w": 772,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -11,19 +11,19 @@
     "zones": [
       {
         "name": "Living room",
-        "temperature_c": 17.0,
+        "temperature_c": 16.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Dining room",
-        "temperature_c": 17.0,
+        "temperature_c": 16.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Family room",
-        "temperature_c": 19.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -35,7 +35,7 @@
       },
       {
         "name": "Kaena bed",
-        "temperature_c": 16.5,
+        "temperature_c": 16.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -53,7 +53,7 @@
       },
       {
         "name": "Spare room",
-        "temperature_c": 19.5,
+        "temperature_c": 19.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -65,19 +65,19 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 17.5,
+        "temperature_c": 17.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Library",
-        "temperature_c": 18.0,
+        "temperature_c": 17.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Hall",
-        "temperature_c": 18.5,
+        "temperature_c": 18.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       }
@@ -86,7 +86,7 @@
   "lighting": [
     {
       "name": "Family room",
-      "on": 0,
+      "on": 2,
       "total": 2
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "name": "Landing",
-      "on": 5,
+      "on": 2,
       "total": 5
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Soren\u2019s room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "name": "Study",
-      "on": 0,
+      "on": 2,
       "total": 2
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "name": "Dining Room",
-      "on": 2,
+      "on": 0,
       "total": 4
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 14,
+      "on": 0,
       "total": 14
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 54
+    "devices_online": 49
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
