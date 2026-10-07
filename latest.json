@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T12:34:46.487988+00:00",
+  "fetched_at": "2026-10-07T12:50:00.448609+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1058,
+  "grid_now_w": 1252,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 51
+    "devices_online": 48
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
