@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T06:50:20.933068+00:00",
+  "fetched_at": "2026-10-07T07:05:34.674076+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1239,
+  "grid_now_w": 938,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -23,7 +23,7 @@
       },
       {
         "name": "Family room",
-        "temperature_c": 19.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 1,
+      "on": 0,
       "total": 4
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "name": "Study",
-      "on": 2,
+      "on": 0,
       "total": 2
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Kitchen",
-      "on": 0,
+      "on": 13,
       "total": 13
     },
     {
