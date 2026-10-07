@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T14:51:34.798738+00:00",
+  "fetched_at": "2026-10-07T15:06:48.611707+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 493,
+  "grid_now_w": 1700,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -23,7 +23,7 @@
       },
       {
         "name": "Family room",
-        "temperature_c": 19.5,
+        "temperature_c": 20.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -41,7 +41,7 @@
       },
       {
         "name": "Soren bed",
-        "temperature_c": 18.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -65,13 +65,13 @@
       },
       {
         "name": "Porch-Dressing",
-        "temperature_c": 18.0,
+        "temperature_c": 18.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
       {
         "name": "Library",
-        "temperature_c": 24.0,
+        "temperature_c": 26.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 50
+    "devices_online": 49
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
