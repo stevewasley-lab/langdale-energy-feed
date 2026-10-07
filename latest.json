@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T18:25:21.511200+00:00",
+  "fetched_at": "2026-10-07T18:40:37.159592+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1371,
+  "grid_now_w": 1027,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "A",
@@ -101,7 +101,7 @@
     },
     {
       "name": "Bedroom",
-      "on": 4,
+      "on": 0,
       "total": 4
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -171,7 +171,7 @@
     }
   ],
   "network": {
-    "devices_online": 52
+    "devices_online": 53
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
