@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T07:44:52.685175+00:00",
+  "fetched_at": "2026-10-07T08:00:19.992499+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 1806,
+  "grid_now_w": 1832,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -146,7 +146,7 @@
     },
     {
       "name": "Gym",
-      "on": 8,
+      "on": 0,
       "total": 8
     },
     {
@@ -156,13 +156,13 @@
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
       "name": "Kitchen",
-      "on": 0,
-      "total": 13
+      "on": 14,
+      "total": 14
     },
     {
       "name": "Kaena\u2019s Bathroom",
