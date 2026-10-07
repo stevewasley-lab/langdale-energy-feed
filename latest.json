@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-07T08:31:13.492019+00:00",
+  "fetched_at": "2026-10-07T08:46:27.350586+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 4242,
+  "grid_now_w": 2683,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Soren bed",
-        "temperature_c": 18.5,
+        "temperature_c": 18.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -91,7 +91,7 @@
     },
     {
       "name": "Porch light",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "name": "Utility",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
