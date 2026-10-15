@@ -1,92 +1,19 @@
 {
-  "fetched_at": "2026-10-07T22:13:33.736789+00:00",
+  "fetched_at": "2026-10-15T17:50:18.510235+00:00",
   "solar_today_kwh": null,
   "generation_now_w": 0,
-  "grid_now_w": 772,
+  "grid_now_w": 1078,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
-  "ev_plug_status": "A",
+  "ev_plug_status": "B1",
   "heating": {
-    "system_mode": "HeatingOff",
-    "zones": [
-      {
-        "name": "Living room",
-        "temperature_c": 16.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Dining room",
-        "temperature_c": 16.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Family room",
-        "temperature_c": 19.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Master bed",
-        "temperature_c": 18.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Kaena bed",
-        "temperature_c": 16.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Soren bed",
-        "temperature_c": 17.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Study",
-        "temperature_c": 18.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Spare room",
-        "temperature_c": 19.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Games room",
-        "temperature_c": 17.5,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Porch-Dressing",
-        "temperature_c": 17.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Library",
-        "temperature_c": 17.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      },
-      {
-        "name": "Hall",
-        "temperature_c": 18.0,
-        "setpoint_c": 5.0,
-        "setpoint_mode": "FollowSchedule"
-      }
-    ]
+    "system_mode": null,
+    "zones": []
   },
   "lighting": [
     {
       "name": "Family room",
-      "on": 2,
+      "on": 0,
       "total": 2
     },
     {
@@ -96,7 +23,7 @@
     },
     {
       "name": "Landing",
-      "on": 2,
+      "on": 5,
       "total": 5
     },
     {
@@ -106,7 +33,7 @@
     },
     {
       "name": "Soren\u2019s room",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -116,7 +43,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 0,
+      "on": 1,
       "total": 1
     },
     {
@@ -171,12 +98,12 @@
     }
   ],
   "network": {
-    "devices_online": 49
+    "devices_online": 53
   },
   "errors": {
     "solaredge": "HTTP Error 400: Bad Request",
     "myenergi": null,
-    "evohome": null,
+    "evohome": "Cannot connect to host tccna.honeywell.com:443 ssl:default [nodename nor servname provided, or not known]",
     "hue": null,
     "network": null
   }
