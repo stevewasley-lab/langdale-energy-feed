@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-15T17:52:09.137406+00:00",
-  "solar_today_kwh": null,
+  "fetched_at": "2026-10-15T18:14:47.795973+00:00",
+  "solar_today_kwh": 14.23,
   "generation_now_w": 0,
-  "grid_now_w": 1094,
+  "grid_now_w": 1110,
   "ev_diversion_w": 0,
   "ev_mode": "Eco+",
   "ev_plug_status": "B1",
@@ -47,7 +47,7 @@
       },
       {
         "name": "Study",
-        "temperature_c": 17.5,
+        "temperature_c": 18.0,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -71,7 +71,7 @@
       },
       {
         "name": "Library",
-        "temperature_c": 19.0,
+        "temperature_c": 19.5,
         "setpoint_c": 5.0,
         "setpoint_mode": "FollowSchedule"
       },
@@ -116,7 +116,7 @@
     },
     {
       "name": "Dressing room",
-      "on": 1,
+      "on": 0,
       "total": 1
     },
     {
@@ -171,10 +171,10 @@
     }
   ],
   "network": {
-    "devices_online": 53
+    "devices_online": 54
   },
   "errors": {
-    "solaredge": "HTTP Error 400: Bad Request",
+    "solaredge": null,
     "myenergi": null,
     "evohome": null,
     "hue": null,
